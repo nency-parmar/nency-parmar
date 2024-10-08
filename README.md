@@ -1,6 +1,6 @@
 ## Hi Everyone, I'm Nency Parmar ✨👋
 
-<h2>✨About Me...✨</h2>
+<h2 class="text-center">✨About Me...✨</h2>
 
 🎓 I’m a 3rd-semester Engineering student, passionate about learning and applying technology to solve real-world problems.
 
