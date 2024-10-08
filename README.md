@@ -1,3 +1,6 @@
+![Welcome GIF](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+<br/>
+
 ## Hi Everyone, I'm Nency Parmar ✨👋
 
 ---------------------------------------------------[About Me...]----------------------------------------------------------
@@ -18,7 +21,10 @@
 
 🍃 I enjoy exploring new technologies like Flutter Python to enhance my skill set.
 
+<br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)<br/>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)<br/>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
