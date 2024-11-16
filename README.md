@@ -2,11 +2,11 @@
 
 <h2>                   ✨About Me...✨                  </h2>
 
-🎓 I’m a 3rd-semester Engineering student, passionate about learning and applying technology to solve real-world problems.
+🎓 I’m a 4th-semester Engineering student, passionate about learning and applying technology to solve real-world problems.
 
-🔭 Currently focusing on developing skills in JS.
+🔭 Currently focusing on developing skills in Python.
 
-🌱 I’m learning more about Software Development, Data Structures, and Algorithms.
+🌱 I’m learning more about Software Development , Flutters , etc.
 
 💡 I enjoy working on innovative projects, building small applications, and exploring new areas of technology.
 
