@@ -15,3 +15,6 @@
 💻 I have hands-on experience in C, Backend Development, Web Development , Python , Flutter & Database etc!!! 
 
 🍃 I enjoy exploring new technologies like Advance Technologies to enhance my skill set.
+
+🚀 I’m familiar with Flutter and can build applications — while I don’t have professional experience yet, I know how to develop, run, and deploy apps!!!
+Currently, I’m diving deeper into Advanced Flutter to sharpen my skills even more!!!
