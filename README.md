@@ -2,9 +2,9 @@
 
 <h2>                   ✨About Me...✨                  </h2>
 
-🎓 I’m a 5th-semester Engineering student, passionate about learning and applying technology to solve real-world problems.
+🎓 I’m a 6th-semester Engineering student, passionate about learning and applying technology to solve real-world problems.
 
-🌱 I’m learning more about Software Development , Flutters , etc.
+🌱 I’m learning more about Software Development, Machine Learning , etc.
 
 💡 I enjoy working on innovative projects, building small applications, and exploring new areas of technology.
 
@@ -19,9 +19,8 @@ nencyy0808@gmail.com
 
 🌱 Currently Learning:
 
-Software Development
-Design and Analysis of Algorithms (DAA)
-Data Mining (DM)
+NextJS
+Operating System
 
 🍃 I enjoy exploring new technologies like Advance Technologies to enhance my skill set.
 
