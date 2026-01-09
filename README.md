@@ -34,12 +34,16 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-#### 🤖 Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+Done ✅
+Here’s your **updated GitHub README section with MSSQL added** — just **replace your Database section** with this 👇
 
 ---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
 ### 🚀 About Flutter
 
@@ -49,6 +53,7 @@ I’m familiar with **Flutter** and can **build, run, and deploy applications**.
 
 ### 🌱 Currently Learning
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4B8BBE?style=for-the-badge)
 
