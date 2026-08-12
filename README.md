@@ -57,9 +57,10 @@ I’m familiar with **Flutter** and can **build, run, and deploy applications**.
 
 ### 🌱 Currently Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4B8BBE?style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-4285F4?style=for-the-badge&logo=apache-spark&logoColor=white" />
+</p>
 
 ---
 
@@ -72,5 +73,9 @@ When I’m not coding, you’ll find me listening to music 🎧, traveling ✈�
 ### 📫 Connect With Me
 
 📧 **Email:** [nencyy0808@gmail.com](mailto:nencyy0808@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/nency16](https://linkedin.com/in/nency16)
+
+🌐 **Portfolio:** [portfolio-two-flax-96.vercel.app](https://portfolio-two-flax-96.vercel.app)
 
 ---
