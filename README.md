@@ -2,9 +2,9 @@
 
 ### ✨ About Me ✨
 
-🎓 I’m a **6th-semester Engineering student** passionate about learning and applying technology to solve real-world problems.
+🎓 I’m a **7th-semester Engineering student** passionate about learning and applying technology to solve real-world problems.
 
-🌱 I’m currently learning and improving my skills in **Software Development, Machine Learning, Next.js, NestJS, and Operating Systems**.
+🌱 I’m currently learning and improving my skills in **Software Development, Deep Learning**.
 
 💡 I enjoy working on **innovative projects**, building small applications, and exploring new areas of technology.
 
